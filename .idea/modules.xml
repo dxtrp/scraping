@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:/python coding/Introduction to Computer Science and Programming Using Python/.idea/Introduction to Computer Science and Programming Using Python.iml" filepath="G:/python coding/Introduction to Computer Science and Programming Using Python/.idea/Introduction to Computer Science and Programming Using Python.iml" />
+      <module fileurl="file://G:/python coding/chapter15/.idea/chapter15.iml" filepath="G:/python coding/chapter15/.idea/chapter15.iml" />
+      <module fileurl="file://G:/python coding/function programe/.idea/function programe.iml" filepath="G:/python coding/function programe/.idea/function programe.iml" />
+      <module fileurl="file://G:/python coding/lecture_code 08/.idea/lecture_code 08.iml" filepath="G:/python coding/lecture_code 08/.idea/lecture_code 08.iml" />
+      <module fileurl="file://G:/python coding/matplotlib/.idea/matplotlib.iml" filepath="G:/python coding/matplotlib/.idea/matplotlib.iml" />
+      <module fileurl="file://G:/python coding/pandas/.idea/pandas.iml" filepath="G:/python coding/pandas/.idea/pandas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stock-analysis-master.iml" filepath="$PROJECT_DIR$/.idea/stock-analysis-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/量化投资实验.iml" filepath="$PROJECT_DIR$/../.idea/量化投资实验.iml" />
+    </modules>
+  </component>
+</project>
